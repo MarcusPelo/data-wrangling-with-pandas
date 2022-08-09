@@ -16,3 +16,9 @@ You are now ready to get your hands dirty: enjoy!
 
 The paper by Hadley Wickham is freely available at this stable [link](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf). I really recommend to read it!
 
+
+
+## Shortcuts
+
+
+
